@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Kulindu Rovin👨‍💻
+# 👋 Hello there, I'm Kulindu Rovin 👨‍💻
 
-I'm an undergraduate at the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka, specializing in Integrated Computer Engineering.
+I'm an undergraduate at the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka, specializing in Integrated Computer Engineering. I am interested in Embedded Systems, Internet of Things, and Robotics.
 
 ## 🔧 Technologies & Tools
 
@@ -14,9 +14,13 @@ I'm an undergraduate at the Department of Computer Science and Engineering, Univ
 
 ## 🚀 Current Projects
 
-- [Remote-Baby-Monitoring-System](https://github.com/RovinKYK/Remote-Baby-Monitoring-System) - A comprehensive solution for modern parenting that not only monitors the baby and his environment but also identifies their emotions from their cries.
+Here is the ongoing project I'm working on:
+
+- [Remote Baby Monitoring System](https://github.com/RovinKYK/Remote-Baby-Monitoring-System) - A comprehensive solution for modern parenting that not only monitors the baby and their environment but also identifies their emotions from their cries.
 
 ## 🌱 Currently Learning
+
+I believe that learning is a never-ending process. I constantly seek opportunities for development. Here are a few areas I'm currently focusing on:
 
 - Embedded Machine Learning
 - React
@@ -32,6 +36,8 @@ I'm an undergraduate at the Department of Computer Science and Engineering, Univ
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+Collaboration is key to success. I always like to connect and share experiences with like-minded individuals.
 
-Feel free to explore my repositories and projects [here.](https://github.com/RovinKYK?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/kulindu-rovin/)
+
+Feel free to explore my repositories and projects [here](https://github.com/RovinKYK?tab=repositories).
