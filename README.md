@@ -38,6 +38,6 @@ I believe that learning is a never-ending process. I constantly seek opportuniti
 
 Collaboration is key to success. I always like to connect and share experiences with like-minded individuals.
 
-[LinkedIn](https://www.linkedin.com/in/kulindu-rovin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulindu-rovin/)
 
 Feel free to explore my repositories and projects [here](https://github.com/RovinKYK?tab=repositories).
