@@ -2,8 +2,6 @@
 
 I'm an undergraduate at the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka, specializing in Integrated Computer Engineering.
 
-![Banner Image](https://path-to-your-image.com/banner-image.jpg)
-
 ## 🔧 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
