@@ -25,7 +25,7 @@ I believe that learning is a never-ending process. I constantly seek opportuniti
 
 - Fullstack Development
 - DevOps
-- MAchine Learning
+- Machine Learning
 - Research and Development
 
 ## 🤝 Let's Connect
